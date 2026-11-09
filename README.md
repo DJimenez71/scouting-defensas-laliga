@@ -24,7 +24,7 @@ Para que el análisis sea justo, se aplicaron dos reglas:
    * *Fórmula:* `(Entradas Ganadas [TklW] + Intercepciones [Int]) / (Minutos / 90)`
 
 ## 📊 Visualización Destacada
-![Gráfico Defensas](images/grafico_defensas.png)
+![Gráfico Defensas](grafico_defensas.png)
 
 
 El gráfico muestra el Top 5 de defensas con mayor promedio de acciones defensivas por cada 90 minutos. 
